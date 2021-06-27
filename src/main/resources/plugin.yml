@@ -1,0 +1,9 @@
+name: RexGui
+version: ${project.version}
+main: com.clueforce.rexgui.RexGui
+api-version: 1.15
+authors: [ ClueForce ]
+description: A Simple GUI Plugin
+commands:
+  gui:
+    description:  Open a GUI
